@@ -1,8 +1,8 @@
-*Trocas Digitais*
+#Trocas Digitais*
 
 Trocas Digitais é uma plataforma de troca de conhecimentos e materiais, conectando pessoas que precisam de ajuda com quem deseja oferecer apoio. O projeto é composto por um frontend em HTML/CSS/JS puro e um backend em Node.js.
 
-*Funcionalidades:
+Funcionalidades:
 
 Cadastro de usuários
 Feed de publicações
@@ -11,7 +11,7 @@ Sistema de matches (conexões entre usuários)
 Página de materiais e projetos
 Design responsivo para dispositivos móveis
 
-*Tecnologias Utilizadas:
+Tecnologias Utilizadas:
 
 Frontend:
 HTML
@@ -23,7 +23,7 @@ Node.js
 Express
 MySql2
 
-*Como rodar o projeto:
+Como rodar o projeto:
 
 1. Clone o repositório:
 git clone https://github.com/marianatpatrocin/trocas-digitais.git
@@ -40,7 +40,7 @@ node server.js
 
 Obs: Verifique se o banco de dados está rodando corretamente em db_config.js antes de iniciar. 
 
-*Desenvolvedores
+Desenvolvedores
 -Mariana Toledo Patrocin
 -Maria Eduarda Locks
 -Alice Ferreira
