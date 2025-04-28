@@ -1,4 +1,4 @@
-#Trocas Digitais
+*Trocas Digitais*
 
 Trocas Digitais é uma plataforma de troca de conhecimentos e materiais, conectando pessoas que precisam de ajuda com quem deseja oferecer apoio. O projeto é composto por um frontend em HTML/CSS/JS puro e um backend em Node.js.
 
